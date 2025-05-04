@@ -37,6 +37,8 @@
     <nav class="main-nav">
       <NuxtLink to="/elections" exact-active-class="router-link-active">Election Management</NuxtLink>
       <NuxtLink to="/stats" exact-active-class="router-link-active">Voting Statistics</NuxtLink>
+      <NuxtLink to="/results" exact-active-class="router-link-active">detailed Statistics</NuxtLink>
+
     </nav>
 
     <h1 style="margin-top: 20px;">Election Management</h1>
